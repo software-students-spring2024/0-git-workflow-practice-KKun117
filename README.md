@@ -7,4 +7,4 @@ https://medium.com/gitconnected/the-5-paid-subscriptions-i-actually-use-in-2024-
 
 
 # About this article
-I found this paragraph interesting because it makes me become more productive if I use these tools when I am programming (Although this is not allowed in the courses).
+I found this paragraph interesting because it makes me become more productive if I use these tools when I am programming (Although this is not allowed in the courses) .
