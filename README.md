@@ -6,7 +6,5 @@ Link:
 https://medium.com/gitconnected/the-5-paid-subscriptions-i-actually-use-in-2024-as-a-software-engineer-edd9949df58b
 
 
-# GitHub Copilot: an AI pair programmer
-When I’m writing code, Copilot works in the background by reading what I’ve written and quietly suggesting what I might want to write next.
-
-Last year I said Copilot has improved my productivity by at least 30%. The real figure might be closer to 50%. I spend considerably less effort on the mundane and boilerplate, and I feel much more satisfied with the engaging bits of software engineering.
+# About this article
+I found this paragraph interesting because it makes me become more productive if I use these tools when I am programming (Although this is not allowed in the courses).
